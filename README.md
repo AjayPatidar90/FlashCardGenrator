@@ -6,7 +6,7 @@ My Flashcard page: On this page, you can see your all flashcards
 
 FlashcardDetails page: On this page, you can see your flashcards details and you can also share or print your page
 
-#Features
+# Features
 
 . Add More Input Box
 . Delete Input Box
@@ -15,7 +15,7 @@ FlashcardDetails page: On this page, you can see your flashcards details and you
 . View cards
 . Dark mode
 . Share
-   and may more
+ and may more
 
 # Tech Stack
 
