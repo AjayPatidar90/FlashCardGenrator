@@ -1,4 +1,4 @@
-About The Project (Flashcard )
+# About The Project (Flashcard )
 
 Create flashcard page: In this page, we used a Formik for creating input boxes, yap for validation, and a switch to toggle between light mode to dark mode.
 
